@@ -6,7 +6,7 @@ My name is Zack Barnett, I am a Junior Certified in the Computer Science Major w
 You can use the [editor on GitHub](https://github.com/zackbar22/website/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 ## Projects
 
-[CS 360 Final Project](https://github.com/zackbar22/CS_360_final_project) 
+[CS 360 Final Project](https://github.com/zackbar22/CS_360_final_project) This Final Project is a fully Linux recognizable filing system which allocates, deallocates, and manipulates memory on a virtual disk via INODES and memory blocks to allow the user to create and traverse multiple level directories and files. The user can also perform numerous Linux commands to alter or show contents and locations of directories and files. Base Code and advisment given by my CS 360 Professor Kung-Chi Wang.
 
 ### Markdown
 
