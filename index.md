@@ -4,38 +4,9 @@
 My name is Zack Barnett, I am a Junior Certified in the Computer Science Major with a Minor in Progress in Mathmatics at Washington State University Honors College. I'm a self-motivated and sociable individual who excells when working with others. I'm looking to gain experience in a variety of feilds in order to decide which aspect of Computer Science I wish to specialize in. My primary interestes and areas of experience include Software Development, Security, Backend Web Development, and Data Analytics. 
 
 You can use the [editor on GitHub](https://github.com/zackbar22/website/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+
 ## Projects
 
 [CS 360 Final Project](https://github.com/zackbar22/CS_360_final_project) This Final Project is a fully Linux recognizable filing system which allocates, deallocates, and manipulates memory on a virtual disk via INODES and memory blocks to allow the user to create and traverse multiple level directories and files. The user can also perform numerous Linux commands to alter or show contents and locations of directories and files. Base Code and advisment given by my CS 360 Professor Kung-Chi Wang.
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/zackbar22/website/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+[Graph Theory Visual Application](https://github.com/zackbar22/Graph_Theory_Application) This application gives you a canvas to create, connect, and move around vertices to help visualize graphs that can be used in graph theory classes. You have the ability to connect multiple vertices together with lines as well as remove connected veritices. You can change the color of vertices, add parallel edges, and test whether the graph is bipartisan or not. Information on the total number of vertices and total degree of the graph is displayed in the top left of the window, and the number adjust appropriately as you change the graph.   
