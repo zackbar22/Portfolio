@@ -3,8 +3,6 @@
 ## About Me
 My name is Zack Barnett, I am a Senior Certified in the Computer Science Major with a Minor in Progress in Mathmatics at Washington State University Honors College. I'm a self-motivated and sociable individual who excells when working with others. I'm looking to gain experience in a variety of feilds in order to decide which aspect of Computer Science I wish to specialize in. My primary interestes and areas of experience include Software Development, Web app Development, Machine Learning, and Data Analytics. 
 
-You can use the [editor on GitHub](https://github.com/zackbar22/website/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
 ## Projects
 
 [CS 360 Final Project](https://github.com/zackbar22/CS_360_final_project) This Final Project is a fully Linux recognizable filing system which allocates, deallocates, and manipulates memory on a virtual disk via INODES and memory blocks to allow the user to create and traverse multiple level directories and files. The user can also perform numerous Linux commands to alter or show contents and locations of directories and files. Base Code and advisment given by my CS 360 Professor Kung-Chi Wang.
